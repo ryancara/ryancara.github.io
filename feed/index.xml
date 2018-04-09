@@ -11,8 +11,8 @@
 	<title>Ryan Cara</title>
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Composer Producer</description>
-	<lastBuildDate>Sun, 08 Apr 2018 22:49:10 +0000</lastBuildDate>
+	<description>Composer</description>
+	<lastBuildDate>Mon, 09 Apr 2018 02:34:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
